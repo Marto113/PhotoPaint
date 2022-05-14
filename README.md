@@ -1,6 +1,6 @@
 # Project-Paint
  
- A project in which I try to recreate MS Paint
+A simple GUI application similiar to MS Paint
  
  Modules that I used:
  - tkinter (ttk, colorchooser, filedialog)
@@ -12,4 +12,4 @@ Functionalities:
 - scaling pen and eraser size
 - saving image
 - choosing colors
-- changing background
+- changing background colors
